@@ -1,0 +1,10 @@
+/home/shubah/workspace/MyFirstProject/bin/Debug/netcoreapp2.0/MyFirstProject.deps.json
+/home/shubah/workspace/MyFirstProject/bin/Debug/netcoreapp2.0/MyFirstProject.runtimeconfig.json
+/home/shubah/workspace/MyFirstProject/bin/Debug/netcoreapp2.0/MyFirstProject.runtimeconfig.dev.json
+/home/shubah/workspace/MyFirstProject/bin/Debug/netcoreapp2.0/MyFirstProject.dll
+/home/shubah/workspace/MyFirstProject/bin/Debug/netcoreapp2.0/MyFirstProject.pdb
+/home/shubah/workspace/MyFirstProject/obj/Debug/netcoreapp2.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/home/shubah/workspace/MyFirstProject/obj/Debug/netcoreapp2.0/MyFirstProject.AssemblyInfoInputs.cache
+/home/shubah/workspace/MyFirstProject/obj/Debug/netcoreapp2.0/MyFirstProject.AssemblyInfo.cs
+/home/shubah/workspace/MyFirstProject/obj/Debug/netcoreapp2.0/MyFirstProject.dll
+/home/shubah/workspace/MyFirstProject/obj/Debug/netcoreapp2.0/MyFirstProject.pdb
